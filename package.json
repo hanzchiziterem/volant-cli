@@ -1,0 +1,18 @@
+{
+  "name": "volant-cli",
+  "version": "1.0.0",
+  "description": "Volant's Command Line Interface",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzchiziterem/volant-cli.git"
+  },
+  "keywords": [],
+  "author": "Hanz Chiziterem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanzchiziterem/volant-cli/issues"
+  },
+  "homepage": "https://github.com/hanzchiziterem/volant-cli#readme"
+}
